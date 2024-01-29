@@ -1,4 +1,17 @@
-## Hi there 👋
+## Uprising 👋
+
+Alternativa de código abierta a discord
+
+
+### Todo-List:
+
+- [x] Implementación de logeo y registro
+- [ ] Reescritura del Frontend en Sveltekit
+
+
+
+> [!WARNING]
+> Proyecto en etapas de desarrollo temprano, NO está listo para entornos de producción.
 
 <!--
 
