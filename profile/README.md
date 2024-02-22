@@ -6,8 +6,11 @@ Alternativa de código abierta a discord
 ### Todo-List:
 
 - [x] Implementación de logeo y registro
-- [ ] Reescritura del Frontend en Sveltekit
-
+- [x] Menú de inicio
+_ [x] Creación de servidor
+_ [ ] Gestionar roles
+_ [ ] Crear canales y categorias
+_ [ ] Leer canales y enviar mensajes
 
 
 > [!WARNING]
