@@ -7,10 +7,11 @@ Alternativa de código abierta a discord
 
 - [x] Implementación de logeo y registro
 - [x] Menú de inicio
-_ [x] Creación de servidor
-_ [ ] Gestionar roles
-_ [ ] Crear canales y categorias
-_ [ ] Leer canales y enviar mensajes
+- [x] Creación de servidor
+- [ ] Gestionar roles
+- [ ] Crear canales y categorias
+- [x] Leer canales y enviar mensajes
+
 
 
 > [!WARNING]
